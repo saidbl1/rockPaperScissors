@@ -1,5 +1,5 @@
-### Rock Paper Scissors
+# Rock Paper Scissors
 
 ## in Python
 
-# Text based
+### Text-based
